@@ -1,4 +1,4 @@
-# 🚀 Análise Estatística de Missões Espaciais (1957–2020)
+# Análise Estatística de Missões Espaciais (1957–2020)
 
 > **Avaliação Global Solution — Estatística com Python**  
 > Tema: Nova Economia Espacial
