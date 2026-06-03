@@ -156,5 +156,4 @@ Após os cálculos, o script imprime no terminal um bloco de interpretação cr�
 ## 📚 Referências
 
 - AGIRLCODING. *All Space Missions from 1957*. Kaggle, 2021. Disponível em: https://www.kaggle.com/datasets/agirlcoding/all-space-missions-from-1957
-- IBGE. Portal Brasileiro de Dados Abertos. https://dados.gov.br
 - NEXT SPACE ECONOMY. *The Space Economy at a Glance*. OCDE, 2022.
